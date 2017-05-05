@@ -1,0 +1,4 @@
+This is the log to update when a bug is found. Please make a new line, the nature of the bug, and what was going on when it happened.
+
+EXAMPLE:
+1. 5/5/17 - Jacob Bolduc, Drexel University - Found a bug. It was flying over my head, and realized it was bees going to a nearby tree.
