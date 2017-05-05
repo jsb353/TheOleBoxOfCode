@@ -1,0 +1,7 @@
+Add material files to this folder, and update the list with what was added and the name of the person you made it, to give
+proper credit.
+
+1. Graphite - Professor Maher Harb
+2. Silver - Professor Maher Harb
+
+and so on.
